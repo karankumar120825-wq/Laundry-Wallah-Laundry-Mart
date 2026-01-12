@@ -1,0 +1,133 @@
+
+body{
+    font-family: Arial, sans-serif;
+    background-color: #e3a6a6;
+    margin: 0;
+    padding: 0;
+    overflow-x: auto;
+}
+header{
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 10px ;
+    width: 100%;
+    bottom: 0;
+    top: 0;   
+}
+a:hover{
+    color: red;
+}
+img{
+    width: 85px;
+    height: 90px;
+    position:absolute;
+    top: 0;
+    left: 0;
+    background-color: #000000;
+    border: 3px solid #000000;
+}
+#im{
+    width: 80px;
+    height: 80px;
+    position:absolute;
+    top:0;
+    margin:0%;
+    left: 1450px;
+    background-color: #000000;
+    border-radius: 45px solid #000000;
+
+
+}
+nav a{
+    color: #ffffff;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-style: solid;
+    text-decoration-color: #ffffff;
+    
+
+}
+#about{
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 30px;
+    position: relative;
+}
+#about:hover{
+    border: 2px solid #76a2b2;
+   
+}
+#services{
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 30px;
+}
+#services:hover{
+    border: 2px solid #76a2b2;
+   
+}
+#contact{
+    background-color: #000000;
+
+    border-radius: 30px;
+    color: white;
+}
+#contact:hover{
+    border: 2px solid #76a2b2;
+}
+footer{
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+
+    bottom: 0;
+    width: 100%;
+    margin: 0%;
+
+   
+}
+
+   
+
+#booking{
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 30px;
+
+}
+#booking:hover{
+   border: 2px solid #76a2b2;
+   cursor: pointer;
+}
+#pricing{
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 30px;
+}
+#pricing:hover{
+    border: 2px solid #76a2b2;
+    cursor: pointer;
+}
+#button{
+    background-color: #000000;
+    color: white;
+    padding: 10px 20px;
+    border:2px solid #000000;
+    border-radius: 30px;
+    cursor: pointer;
+   
+}
+#button:hover{
+    background-color: rgb(255, 255, 255);
+    color:rgb(114, 166, 182);
+    border: 3px solid darkblue;
+    cursor: pointer;
+}
